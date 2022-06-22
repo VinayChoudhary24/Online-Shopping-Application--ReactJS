@@ -1,5 +1,5 @@
 # Getting Started:-
--Building the User Interface With React Router[Always Initialize Setup/Environment In BASH Terminal with commands -npm install -g yarn AND npm install -g node AND LS AND NPM START, not in cmd, powershell]
+-Building the User Interface With ReactJS [Always Initialize Setup/Environment In BASH Terminal with commands -npm install -g yarn AND npm install -g node AND LS AND NPM START, not in cmd, powershell]
 
 (Install React, Create app with line i.e npx create-react-app Project Name)(React is a JS library for building USER INTERFACE)(Use FIREBASE for hosting and Database{For Pulling the information whenever Needed})(Using Firebase Cloud Funtions For PAYMENTS)
 
