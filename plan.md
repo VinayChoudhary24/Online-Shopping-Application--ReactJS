@@ -18,7 +18,7 @@ STEP1.1--1.3:- Create Header.js
 
 STEP1.4--1.11:- Create Basket Icon and Add in Right DIV Section and put the Products in Home component
 
-STEP2.1--2.10:- Building the Basket Page i.e CHECKOUT PAGE(WE will Need REACT ROUTER in order to have Multiple Pages On WEBSITE, it helps in the FUNCTIONALITY of Going BACKWARDS & FORWARD)
+STEP2.1--2.10:- Building the Basket Page i.e CHECKOUT PAGE(WE will Need REACT ROUTER in order to have Multiple Pages On WEBSITE, it helps in the FUNCTIONALITY of Going BACKWARDS & FORWARD)[--npm install react-router-dom@5.3.3(this version supports SWITCH)]
 [INSTAll REACT ROUTER DOM with this command-- npm install react-router-dom, after this 2.1IMPORT react-router to APP.JS and Also   
 2.2WRAP the Function App Inside the ROUTER], also adding the LINK to the Amazon & Basket LOGO(<link>)
 
